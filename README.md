@@ -3,12 +3,12 @@ A simple cryptographic algorithm designed and developed without a specific purpo
 
 Algorithm operations:
 
-<code>last_key = sha512(key)
+<b>last_key = sha512(key)
 result += (512 bit) part of text ^ last_key
 
 last_key = sha512(last_key)
 result += (512 bit) part of text ^ last_key
 
-...</code>
+...</b>
 
 until the text ends.
