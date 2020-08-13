@@ -1,5 +1,5 @@
 # shapt
-A simple cryptographic algorithm designed and developed without a specific purpose.
+A simple symmetric cryptographic algorithm designed and developed without a specific purpose.
 
 Algorithm operations:
 
